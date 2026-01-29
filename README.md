@@ -1,11 +1,12 @@
 # 💻🔑🛡 Elnur Aliyev
 
-**`Offensive Security | Penetration Tester | Red Team Enthusiast`**
+Offensive Security | Penetration Testing | Cybersecurity
 
-Former IT manager who got bored managing infrastructure and decided breaking it was way more interesting. Currently deep in cybersecurity training at Holberton School while hunting vulns on HackTheBox and TryHackMe. 
+Cybersecurity professional with experience across Help Desk, IT Management, and technical leadership roles. A strong foundation in building, operating, and securing IT infrastructure has shaped my interest in understanding both how systems are attacked and how they can be effectively defended.
 
-Transitioned from HelpDesk → IT lead → Offensive Security. That background in building and defending systems? Turns out it's incredibly useful when you're trying to compromise them.
+Currently specializing in cybersecurity at Holberton School, while developing hands-on skills through practical labs and real-world scenarios on platforms such as Hack The Box and TryHackMe. Alongside offensive security training, I am intentionally expanding my knowledge of defensive security concepts, incident response, and risk management to maintain a well-rounded security perspective.
 
+My long-term goal is to grow into a security professional who can contribute across offensive, SOC, and GRC functions by identifying vulnerabilities, assessing risk, and supporting organizations in strengthening their overall security posture.
 ---
 
 ## 🎯 Current Focus
