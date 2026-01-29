@@ -1,4 +1,4 @@
-# 👁️⃤ Elnur Aliyev
+# 💻🔑🛡 Elnur Aliyev
 
 **`Offensive Security | Penetration Tester | Red Team Enthusiast`**
 
