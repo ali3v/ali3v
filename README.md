@@ -1,11 +1,10 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba86dc63-ce33-423b-925d-f7def89969b0" />
- Elnur Aliyev
+# 👁️⃤ Elnur Aliyev
 
 **`Offensive Security | Penetration Tester | Red Team Enthusiast`**
 
 Former IT manager who got bored managing infrastructure and decided breaking it was way more interesting. Currently deep in cybersecurity training at Holberton School while hunting vulns on HackTheBox and TryHackMe. 
 
-Transitioned from helpdesk → sysadmin → IT lead → offensive security. That background in building and defending systems? Turns out it's incredibly useful when you're trying to compromise them.
+Transitioned from HelpDesk → IT lead → Offensive Security. That background in building and defending systems? Turns out it's incredibly useful when you're trying to compromise them.
 
 ---
 
