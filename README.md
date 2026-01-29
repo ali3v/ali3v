@@ -47,7 +47,7 @@ Some of my writeups and solutions are scattered across my repos, mostly the stuf
 ### Main repo
 
 Most of my Holberton coursework and projects live here:  
-→ [holbertonschool-cyber_security](https://github.com/nu11xbyt3/holbertonschool-cyber_security)
+→ [holbertonschool-cyber_security](https://github.com/ali3v/holbertonschool-cyber_security)
 
 Covers everything from basic linux hardening to web exploitation and network security. Check the commit history for the actual work.
 
