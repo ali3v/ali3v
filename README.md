@@ -7,6 +7,7 @@ Cybersecurity professional with experience across Help Desk, IT Management, and 
 Currently specializing in cybersecurity at Holberton School, while developing hands-on skills through practical labs and real-world scenarios on platforms such as Hack The Box and TryHackMe. Alongside offensive security training, I am intentionally expanding my knowledge of defensive security concepts, incident response, and risk management to maintain a well-rounded security perspective.
 
 My long-term goal is to grow into a security professional who can contribute across offensive, SOC, and GRC functions by identifying vulnerabilities, assessing risk, and supporting organizations in strengthening their overall security posture.
+
 ---
 
 ## 🎯 Current Focus
