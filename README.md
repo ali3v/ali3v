@@ -1,4 +1,5 @@
-# 💀 Elnur Aliyev
+# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba86dc63-ce33-423b-925d-f7def89969b0" />
+ Elnur Aliyev
 
 **`Offensive Security | Penetration Tester | Red Team Enthusiast`**
 
